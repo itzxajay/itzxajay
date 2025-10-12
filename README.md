@@ -1,4 +1,4 @@
-# → Ajay’s Journey
+# Ajay’s Journey
 **Ajay’s journey — from writing his first lines of code to leading teams — has always been driven by curiosity and the desire to build what’s next.**
 
 With a foundation in **software engineering** and experience in **project leadership**, he’s now exploring the world of **AI and Machine Learning** — turning ideas into intelligent systems that solve real problems.
