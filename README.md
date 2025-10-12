@@ -1,4 +1,4 @@
-# ▻ Ajay’s Journey
+# => Ajay’s Journey
 🔭 I’m currently working on projects to strengthen my skills in Python<br>👯 I’m looking to collaborate on AI/ML projects with real-world impact<br>🌱 I’m currently learning Python for Image Processing & Computer Vision<br>⚡ I’m currently publishing educational content on social handles<br>💬 Ask me about Python and my learning journey
 
 
