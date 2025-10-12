@@ -6,6 +6,7 @@ With a foundation in **software engineering** and experience in **project leader
 He’s passionate about **Python**, **Computer Vision**, & **automation**, and loves sharing his learning journey to help others grow.
 
 💡 **Always learning. Always building.**
+
 🚀 **Let’s turn ideas into impact.**
 
 
