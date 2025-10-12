@@ -1,5 +1,12 @@
 # → Ajay’s Journey
-🔭 I’m currently working on projects to strengthen my skills in Python<br>👯 I’m looking to collaborate on AI/ML projects with real-world impact<br>🌱 I’m currently learning Python for Image Processing & Computer Vision<br>⚡ I’m currently publishing educational content on social handles<br>💬 Ask me about Python and my learning journey
+**Ajay’s journey — from writing his first lines of code to leading teams — has always been driven by curiosity and the desire to build what’s next.**
+
+With a foundation in **software engineering** and experience in **project leadership**, he’s now exploring the world of **AI and Machine Learning** — turning ideas into intelligent systems that solve real problems.
+
+He’s passionate about **Python**, **Computer Vision**, & **automation**, and loves sharing his learning journey to help others grow.
+
+💡 **Always learning. Always building.**
+🚀 **Let’s turn ideas into impact.**
 
 
 ## 🌐 Socials:
